@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "question": "What is the formula for the area of a circle?",
+    "category": "Math"
+  },
+  {
+    "id": 2,
+    "question": "How do I define a function in Python?",
+    "category": "Coding"
+  },
+  {
+    "id": 3,
+    "question": "What is the derivative of x^2?",
+    "category": "Math"
+  },
+  {
+    "id": 4,
+    "question": "How do I create a loop in JavaScript?",
+    "category": "Coding"
+  }
+]

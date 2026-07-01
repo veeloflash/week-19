@@ -1,0 +1,18 @@
+.container {
+  max-width: 800px;
+  margin: 40px auto;
+  font-family: Arial, sans-serif;
+}
+button {
+  margin-right: 10px;
+  padding: 10px 16px;
+}
+.results {
+  margin-top: 20px;
+  border: 1px solid #ddd;
+  padding: 16px;
+  border-radius: 4px;
+}
+.hidden {
+  display: none;
+}
